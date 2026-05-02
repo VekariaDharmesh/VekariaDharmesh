@@ -1,87 +1,19 @@
-# Hi 👋 I'm Dharmesh Vekaria
+## Hey there! 👋
 
-🎓 3rd Year Diploma in Information Technology Student  
-💡 Passionate about AI/ML, Cybersecurity, and Cloud Computing  
-🚀 Focused on building practical projects, hackathon solutions, and real-world problem-solving  
-📚 Currently strengthening my skills in Python, emerging technologies, and software development  
-🌱 Continuously learning, building, and exploring innovative tech opportunities  
+I’m Dharmesh, a 3rd-year Diploma IT student passionate about technology and innovation.
 
----
+I’m currently focused on learning and building in AI/ML, Cybersecurity, and Cloud Computing.
 
-## 🚀 What I'm Currently Working On
-- AI-powered safety and detection projects
-- Cybersecurity-focused practical solutions
-- Python development and libraries
-- Cloud computing fundamentals
-- Hackathon-based innovative projects
+I enjoy creating practical projects, participating in hackathons, and improving my technical skills through hands-on experience.
 
----
+My growing tech stack includes Python, C/C++, web development, Git/GitHub, and emerging technologies.
 
-## 🛠️ Tools & Technologies I Use
-### Programming Languages
-- Python
-- C
-- C++
-- HTML
-- CSS
-- JavaScript
+Right now, I’m building real-world solutions that strengthen my problem-solving, development, and collaborative abilities.
 
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Linux
-- MySQL
-- Canva
-- Figma (UI/UX basics)
+I’m continuously exploring new opportunities in software development, intelligent systems, and cloud technologies.
 
-### Areas of Interest
-- Artificial Intelligence / Machine Learning
-- Cybersecurity
-- Cloud Computing
-- Web Development
-
----
-
-## 📌 Featured Projects
-### 🚆 Railway Rakshak
-AI-based railway safety system for fracture detection and monitoring.
-
-### 🛡️ AI-Based Spyware Detection
-Machine learning project focused on cybersecurity and threat detection.
-
-### 🌐 Web Development Projects
-Interactive and practical development projects for real-world applications.
-
----
-
-## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn Profile Link]
-- GitHub: [Your GitHub Profile Link]
-- Email: [Your Professional Email]
-
----
-
-## 🎯 Current Goals
-- Advance Python expertise
-- Build impactful hackathon projects
-- Strengthen cybersecurity skills
-- Explore cloud technologies
-- Contribute to innovative open-source projects
-
----
-
-### 💬 Personal Motto
-**"Learning continuously, building practically, and growing into the future of technology."**<!--
-**VekariaDharmesh/VekariaDharmesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun Facts:
+- Passionate about building innovative tech projects
+- Strong interest in AI, security, and future technologies
+- Love learning through practical implementation
+- Always curious about new tools and emerging trends
