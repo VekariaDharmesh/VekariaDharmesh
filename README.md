@@ -13,8 +13,8 @@ I’m continuously exploring new opportunities in software development, intellig
 ### Fun Facts:
 - Passionate about building innovative tech projects
 - Strong interest in AI, security, and future technologies
-- Love learning through practical implementation
-- Always curious about new tools and emerging trends
+- Intrested in learning through practical implementation
+- Curious about new tools and emerging trends
 
  
 # Tech Stack:
